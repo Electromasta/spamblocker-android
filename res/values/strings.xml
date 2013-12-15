@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_info">This program shows a message when the call info changes.  It also blocks incoming calls that are from a certain number</string>
+    <string name="add_blockrule">Add Blocked Number</string>
+    <string name="remove_blockrule">Remove Blocked Number</string>
+    <string name="app_name">PhoneBlocker</string>
+    <string name="number">Phone Number</string>
+    <string name="choice">Do you want to add this number to Blacklist?</string>
+</resources>
